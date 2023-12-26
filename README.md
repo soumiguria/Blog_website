@@ -36,18 +36,15 @@ Installation:
 
 Clone this repository to your local machine:
 
-bash
-Copy code
+
 git clone https://github.com/soumiguria/Blog_website.git
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd Blog_website
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Configuration
 Create a .env file in the project root and configure 
